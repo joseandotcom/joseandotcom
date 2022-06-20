@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 📫 How to reach me: Send me a DM on Twitter.
 
 
+📖・**Daily.dev**
+
+<a href="https://app.daily.dev/JosenriqueAS"><img src="https://api.daily.dev/devcards/57f93daf9d5641a8912027972169230c.png?r=msy" width="250" alt="José's Dev Card"/></a>
+
 ### ⚙️ List Tasks
 ______________________
 
