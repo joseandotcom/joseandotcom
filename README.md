@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 
 📖・**Daily.dev**
 
-<a href="https://app.daily.dev/JosenriqueAS"><img src="https://api.daily.dev/devcards/57f93daf9d5641a8912027972169230c.png?r=msy" width="250" alt="José's Dev Card"/></a>
-
-<a href="https://app.daily.dev/JosenriqueAS"><img src="https://github.com/JosenriqueAS/JosenriqueAS/blob/main/devcard.svg" width="400" alt="José's Dev Card"/></a>
+<a href="https://app.daily.dev/JosenriqueAS"><img src="https://github.com/JosenriqueAS/JosenriqueAS/blob/main/devcard.svg" width="250" alt="José's Dev Card"/></a>
 
 ### ⚙️ List Tasks
 ______________________
