@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - My personal website is: www.josenriqueas.com
 -->
 
-👤 I'm Josenrique ([@JosenriqueAS](https://twitter.com/JosenriqueAS) on Twitter).
+👤 I'm Josenrique ([@Jnrikec](https://twitter.com/Jnrikec) on Twitter).
 
 💻 I am Webmaster, currently working on **[Kyhlus Services](https://www.kyhlus.com/)** as a web developer, or so I try.
 
