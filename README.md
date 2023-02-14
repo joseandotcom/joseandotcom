@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ______________________
 
 - [x] Create my readme in GitHub.
-- [ ] [Release of version 3.0 of the official page of my service team](https://www.kyhlus.com)
+- [x] [Release of version 3.0 of the official page of my service team](https://www.kyhlus.com)
 - [ ] Surpriseee :tada:
 
 <!--### ☕ Buy me a coffe
