@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 📖・**Daily.dev**
 
-<a href="https://app.daily.dev/JosenriqueAS"><img src="https://github.com/JosenriqueAS/JosenriqueAS/blob/main/devcard.svg" width="250" alt="José's Dev Card"/></a>
+<a href="https://app.daily.dev/Jnrikec"><img src="https://github.com/Jnrikec/Jnrikec/blob/main/devcard.svg" width="250" alt="José's Dev Card"/></a>
 
 ### ⚙️ List Tasks
 ______________________
 
 - [x] Create my readme in GitHub.
-- [x] [Release of version 3.0 of the official page of my service team](https://www.kyhlus.com)
+- [x] [Release of version 3.0 of the official page of my service team](https://kyhlus.com)
 - [ ] Surpriseee :tada:
 
 <!--### ☕ Buy me a coffe
