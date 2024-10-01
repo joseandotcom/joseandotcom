@@ -1,38 +1,9 @@
-## 👋🏻 Hello there,
-<!--
-**JosenriqueAS/JosenriqueAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me 👨‍💻
 
-Here are some ideas to get you started:
+👤 I'm Jose ([@joseando](https://x.com/joseandopro) on X), a Systems Engineer passionate about technology and web development. I specialize in creating websites with WordPress, using tools like Oxygen Builder to deliver customized and optimized solutions. With experience in SEO, web security, and performance optimization (WPO), I help businesses enhance their online presence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- My personal website is: www.josenriqueas.com
--->
+I enjoy working independently, building projects from scratch, and managing every detail with dedication. I'm currently building my own web agency, offering comprehensive web management services, from maintenance to design and development.
 
-👤 I'm Josenrique ([@Jnrikec](https://twitter.com/Jnrikec) on Twitter).
+When I'm not coding, I love learning about biology, reading, and exploring new ways to improve my physical and mental well-being.
 
-💻 I am Webmaster, currently working on **[Kyhlus Services](https://www.kyhlus.com/)** as a web developer, or so I try.
-
-📫 How to reach me: Send me a DM on Twitter.
-
-
-📖・**Daily.dev**
-
-<a href="https://app.daily.dev/Jnrikec"><img src="https://github.com/Jnrikec/Jnrikec/blob/main/devcard.svg" width="250" alt="José's Dev Card"/></a>
-
-### ⚙️ List Tasks
-______________________
-
-- [x] Create my readme in GitHub.
-- [x] [Release of version 3.0 of the official page of my service team](https://kyhlus.com)
-- [ ] Surpriseee :tada:
-
-<!--### ☕ Buy me a coffe
-![image](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
--->
+Let's connect and build something great together! 🚀
