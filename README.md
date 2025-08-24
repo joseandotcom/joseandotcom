@@ -1,9 +1,37 @@
-### About Me 👨‍💻
+# 🚀 About Me
 
-👤 I'm Jose ([@joseandopro](https://x.com/joseandopro) on X), a Systems Engineer passionate about technology and web development. I specialize in creating websites with WordPress, using tools like Oxygen Builder to deliver customized and optimized solutions. With experience in SEO, web security, and performance optimization (WPO), I help businesses enhance their online presence.
+Hi, I'm **José** ([@joseandotcom](https://x.com/joseandotcom) on X) — an independent **Webmaster & Web Management Specialist**.  
+I run **Joseando Webs**, where I provide **all-in-one web management services** under an annual subscription model, including:
 
-I enjoy working independently, building projects from scratch, and managing every detail with dedication. I'm currently building my own web agency, offering comprehensive web management services, from maintenance to design and development.
+- 🎨 Web design & development (WordPress + Bricks Builder)  
+- ⚡ Performance optimization (WPO) & SEO On Page  
+- 🔒 Security, updates & maintenance  
+- 🛠️ Premium tools & licenses included  
 
-When I'm not coding, I love learning about biology, reading, and exploring new ways to improve my physical and mental well-being.
+---
 
-Let's connect and build something great together! 🚀
+## 💡 Other Projects
+- **labiozona.com** → Science communication platform (blog, podcast, online congress, and community).   
+- **joseando.com** → My personal space for creativity, photography, tutorials, and more.  
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend & CMS** → WordPress, Bricks Builder, JetEngine  
+- **Automation** → n8n, Make, FluentCRM, Telegram Bots  
+- **Infrastructure** → xCloud (Vultr), Cloudflare, Wasabi  
+- **Design & Media** → Affinity Suite, DaVinci Resolve, Sony Alpha  
+
+---
+
+## 🌱 Currently Learning
+- Blender 3D modeling for creative/scientific projects  
+- Improving my English & digital marketing skills  
+- Photography as a hobby (landscapes, macro, astrophotography)  
+
+---
+
+## 🤝 Let’s Connect
+- 🌐 [joseandowebs.com](https://joseandowebs.com) – My web management studio  
+- 📝 [joseando.com](https://joseando.com) – Personal blog & creative projects  
+- 🐦 [@joseandopro](https://x.com/joseandotcom) – Twitter/X  
